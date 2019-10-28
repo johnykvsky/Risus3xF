@@ -102,5 +102,5 @@ to be continued...
 Wszystkie materiały wyżej zalinkowane posiadają (a przynajmniej tak mi się wydaje) info o tym skąd pochodzą, kto jest autorem - w każdym razie nie jestem to ja.
 
  * http://www.risusiverse.com - dużo materiałów do systemu Risus
- * https://www.drivethrurpg.com - można za darmo pobrać Risus, przygodę Risus: Toast of the Town, czy Big List of RPG Plots ale też za ~$10 Risus Companion, rozbudowany kompendium na temat Risus, z wieloma opcjonalnymi zasadami, wyjaśnieniami itd
+ * https://www.drivethrurpg.com - można za darmo pobrać Risus, przygodę Risus: Toast of the Town, czy Big List of RPG Plots ale też za ~$10 Risus Companion, rozbudowane kompendium na temat Risus, z wieloma opcjonalnymi zasadami, wyjaśnieniami itd
  

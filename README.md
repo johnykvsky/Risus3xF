@@ -92,8 +92,6 @@ to be continued...
 
 ## Materiały i linki
 
-## Materiały
-
  * [FITS](f_PL_FITS_printer.pdf) - Świetny system RPG autorstwa Rukasu, oparty tylko na Aspektach.
  * [Rukasu-o-FITS](Rukasu-o-FITS.txt) - Kilka wyjaśnień Rukasu dlaczego tak, a nie inaczej FITS działa
  * [kadufate2012](kadufate2012.pdf) - System kaduFATE, lekki, prosty i przyjemny, autorstwa Kaduceusza
@@ -101,4 +99,8 @@ to be continued...
  * [Injury](Injury.pdf) - Kilka uwag na temat obrażeń
  * [twists](twists.pdf) - Ciekawy wycinek z Fate 2.0
 
-Wszystkie materiały wyżej zalinkowane posiadają (a przynajmniej tami mi się wydaje) info o tym skąd pochodzą, kto jest autorem - w każdym razie nie jestem to ja.
+Wszystkie materiały wyżej zalinkowane posiadają (a przynajmniej tak mi się wydaje) info o tym skąd pochodzą, kto jest autorem - w każdym razie nie jestem to ja.
+
+ * http://www.risusiverse.com - dużo materiałów do systemu Risus
+ * https://www.drivethrurpg.com - można za darmo pobrać Risus, przygodę Risus: Toast of the Town, czy Big List of RPG Plots ale też za ~$10 Risus Companion, rozbudowany kompendium na temat Risus, z wieloma opcjonalnymi zasadami, wyjaśnieniami itd
+ 

@@ -83,9 +83,22 @@ Nowe Klisze powinny być dodawane w wyjątkowych sytuacjach, za zgodą Mistrza G
 
 ## 6. Zasady opcjonalne
 
-  Przy tworzeniu postaci wydając 1 punkt można zamiast Kliszy kupić Szczęśliwy Traf. Za 2 punkty mam 2 Szczęśliwe Trafy itd. Dzięki temu podczas gry wydając Szczęśliwy Traf możemy w 1 rzucie dodać sobie 1 kość "extra". Szczęśliwe Trafy resetują się pomiędzy przygodami.
+Przy tworzeniu postaci wydając 1 punkt można zamiast Kliszy kupić Szczęśliwy Traf. Za 2 punkty mam 2 Szczęśliwe Trafy itd. Dzięki temu podczas gry wydając Szczęśliwy Traf możemy w 1 rzucie dodać sobie 1 kość "extra". Szczęśliwe Trafy resetują się pomiędzy przygodami.
 
 
 ## Dodatki
 
 to be continued...
+
+## Materiały i linki
+
+## Materiały
+
+[FITS](f_PL_FITS_printer.pdf) - Świetny system RPG autorstwa Rukasu, oparty tylko na Aspektach.
+[Rukasu-o-FITS](Rukasu-o-FITS.txt) - Kilka wyjaśnień Rukasu dlaczego tak, a nie inaczej FITS działa
+[kadufate2012](kadufate2012.pdf) - System kaduFATE, lekki, prosty i przyjemny, autorstwa Kaduceusza
+[fZine](fZine.pdf) - Wybrane materiały i przemyślenia na bazie systemu FUDGE
+[Injury](Injury.pdf) - Kilka uwag na temat obrażeń
+[twists](twists.pdf) - Ciekawy wycinek z Fate 2.0
+
+Wszystkie materiały wyżej zalinkowane posiadają (a przynajmniej tami mi się wydaje) info o tym skąd pochodzą, kto jest autorem - w każdym razie nie jestem to ja.

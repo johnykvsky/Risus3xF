@@ -2,7 +2,7 @@
 
 Niniejszy dokument jest autorskim tłumaczeniem/wyjaśnieniem (w niewielkim stopniu rozbudowanym) zasad gry Risus: The Anything RPG, wersji 2.01 autorstwa S. Johna Rossa.
 
-Wersja 0.0.1 https://github.com/johnykvsky/risusrpg
+Wersja 0.0.2 https://github.com/johnykvsky/risusrpg
 
 ## Słowo wstępu
 
@@ -49,15 +49,17 @@ Poziomy trudności (w nawiasach poziom Kliszy, czyli ilość punktów do niej pr
 
 A teraz, uwaga, uwaga - punkty przypisane do Kliszy w trakcie tworzenia postaci, to ilość kości k6. Po prostu - testy wykonujemy rzucając tyloma kościmi 6-cio ściennymi ile mamy punktów w pasującej Kliszy. Jeśli chcemy przeskoczyć nad przepaścią, poziom trudności jest 7, a my jesteśmy Ekspertem (Tarzan się zwiemy), to rzucamy 4k6 i jeśli wypadło 7 lub więcej, to przeskoczyliśmy. Poziomy trudności mogą być różne, dla Tarzana to prościzna 7, ale dla jego kolegi naukowca, który ma jedynie Kliszę Obierzyświat (1), która tu pasuje - no to będzie to bardzo trudne zadanie, poziom trudności 5.
 
-Czasami dwie (lub kilka) postacie starają się wykonać tą samą rzecz w tym samym czasie, udać się może tylko jednej, np. kto pierwszy sięgnie po leżący na podłodze pistolet. Wtedy rzucamy dla każdej z postaci tyloma k6 ile ma Klisza, która najlepiej pasuje do użycia w danej sytuacji i kto ma lepszy wynik - ten wygrał. Ma pistolet, inni nie, zaczyna się walka.
+Czasami dwie (lub kilka) postacie starają się wykonać tą samą rzecz w tym samym czasie, udać się może tylko jednej, np. kto pierwszy sięgnie po leżący na podłodze pistolet. Wtedy rzucamy dla każdej z postaci tyloma k6 ile ma Klisza, która najlepiej pasuje do użycia w danej sytuacji i kto ma lepszy wynik - ten wygrał. Taki test nazwywamy Testem Jednej Akcji. Ma pistolet, inni nie, zaczyna się walka.
 
 ## 3. Walka
 
 Podczas walki obie strony wybierają jakiej Kliszy używają i wykonują test. Ten komu wyszedł lepiej - wygrywa. Po każdym starciu przegrana strona odejmuje 1 od liczby punktów przypisanych do wybranej Kliszy. Jak ilość osiągnie 0 - przegrała. To nie znaczy, że nie żyje, punkty Kliszy to nie Kondycja. Po prostu jest pokonana, można ją związać, ogłuszyć, wygnać, ośmieszyć przed tłumem itp itd. Można też zabić, ale nie jest to równoznaczne z przegraniem. Tak na prawdę walka to starcie, rywalizacja. Tak samo rozstrzygnąć można wyścigi, pojedynek na recytację, walkę psychiczną, starcie powietrzne itd.
 
+Test w zależności od sytuacji jest albo rzutem na określony przez Mistrza Gry poziom trudności +/- modyfikatory, albo wykonywany jest Test Jednej Akcji.
+
 Co ważne - Klisze można zmieniać między rundami, o ile ma to sens. Jeśli mamy Fechmistrz(3) i Wykidajło (2) to możemy po przegraniu 2 razy z Kliszą Fechmistrz przejść na Wykidajło (2) i próbwać dalej walczyć niczym w bójce w barze, wręcz, używając wszystkiego co nam w rękę wpadnie. O ile ma to sens w danej sytuacji.
 
-Po walce punkty Kliszy regenerują się w zależności od okoliczności - jeśli to była walka pojazdami, to przegrany raczej jest w ruinie i Klisza przegranego może wrócić do poziomu bazowego, ale pojazd sam się nie odnowi. 
+Po walce punkty Kliszy regenerują się (w zależności od okoliczności szybciej lub wolniej) - jeśli to była walka pojazdami, to przegrany raczej jest w ruinie i Klisza przegranego może wrócić do poziomu bazowego, ale pojazd sam się nie odnowi. 
 
 Czasami porażka jest wyjątkowo dotkliwa - wtedy MG może przypisać postaci gracza Kliszę, np. Naznaczony zemstą (1). Ma to swoje negatywne i pozytywne skutki - negatywne, bo może przejąć kontrolę nad postacią, przy innej okazji, kiedy lepiej prześć obok, postać po teście na Naznaczony zemstą rzuci wszystko i z okrzykiem na ustach zaatakuje swojego największego wroga, który ją przecież upokorzył. A pozytywne, to może być bonus +1 do testów przy finałowym starciu z racji chęci odkupienia swoich win podczas walki z szarą eminencją, która terroryzowała tą miejscowość i po jej pokonaniu wszyscy zapomną i tamtej sprawie ciesząc się, że teraz będzie już spokojnie.
 
@@ -95,21 +97,35 @@ Każda postać może posiadać jedną Kliszę (1) tzw. Ciemną Stronę - coś c
 
 Test Ciemnej Strony polega na rzucie kością (lub kośćmi) i jeśli chociaż na jednej z nich wypadło 1 - niezdaliśmy. Jeśli również wypadło 6 - zdejmujemy 6 i 1, parząc tylko na pozostałe kości (o ile jakieś zostały). Czyli każda 6 anuluje jedną 1.
 
-Co 3 niezdany test rzucamy 1 kością - wynik nieparzysty oznacza, że nasza Ciemna Strona na stałe zwiększyła się o 1.
+Co 3-ci niezdany test rzucamy 1 kością - wynik nieparzysty oznacza, że nasza Ciemna Strona na stałe zwiększyła się o 1.
 
-Ciemna Strona ma swoje plusy - gracz może celowo jej użyć w grze, wtedy dostaje bonus +1 do Kliszy w trakcie trwania danej akcji. Np. Ciemna Strona to Ryzyko(1), gracz celowo używa jej. Testuje - nie udało się, Ciemna Strona wygrała. Gracz ma teraz +1 do Kliszy i z krzykiem na ustach rzuca się na 3 gobliny broniące wejścia do tunelu. Zamiast Wojownik(3) ma Wojownik(4), Ciemna Strona dała mu +1.
+Ciemna Strona ma swoje plusy - gracz może celowo jej użyć w grze, wtedy dostaje bonus do Kliszy w trakcie trwania danej akcji - bonus wysykości takiej jak Ciemna Strona. Np. Ciemna Strona to Ryzyko (2), gracz celowo używa jej. Testuje - nie udało się, Ciemna Strona wygrała. Gracz ma teraz +2 do Kliszy i z krzykiem na ustach rzuca się na 3 gobliny broniące wejścia do tunelu. Zamiast Wojownik (3) ma Wojownik(5), Ciemna Strona dała mu +2.
+
+Im częściej Ciemna Strona wygrywa, tym silniejsza się staje, tym trudniej ją ignorować, aż postać skończy jak Anakin Skywalker - nie tam gdzie chciała, robiąć rzeczy, których kiedyś by nie zrobiła...
+
+## 7. Broń, zbroje i takie tam
+
+- Zbroje
+
+Każda zbroja itp osłona (np. pole siłowe) jest Kliszą i ma swoją wartość. Czyli np. Kolczuga (3). W czasie walki obrażenia jakie dostajemy schodzą najpierw z kolczugi, a dopiero potem z naszej Kliszy. Nic nie stoi na przeszkodzie aby mieć kilka takich Klisz, np. troll w kolczudze: Skóra (1), Kolczuga (3). Dodatkowo dla niektórych osłon można ustalić, że jeśli różnica między osłoną, a bronią jest większa lub równa 6, wtedy nie ma możliwości przebicia, strzały nic nie dają. Pole siłowe to nie zwykła ściana, można do niego strzelać i strzelać, jeśli z małego kalibru, to się go nie przebije.
+
+- Broń
+
+Jeśli jeden z przeciwników ma miecz, a drugi jedynie gołe pięści - mamy wtedy do czynienia z przewagą wyposażenia. Wtedy druga strona (ta bez miecza) rzuca połową kości którymi powinna rzucić (zaokrąglając w górę). Czyli Wojownik (4) bezbronny kontra Bandyta (2) z mieczem mają takie same szanse: rzucają 2k6. Podobnie jeśli ktoś z pistoletem strzela do czołgu z pancerzem (5) - jest wyraźna różnica wyposażenia, więc strzelec rzuca połową kości. Gdyby strzelał do auta - nie było by różnicy.
+
+Większość broni ma standardową wartość, tj. sztylet, pistolet, karabin, miecz itp zadają obrażenia wynoszące 1. Są jednak bronie cięższe: miecz dwuręczny, cięzki karabin maszynowy itp, dla nich przypisujemy dodatkową wartość (jak dla Kliszy), np. Ciężki karabin (3) - dzięki temu strzelając z tego karabinu możemy przebić pancerz czołgu (8). Działko fazowe (5) może przebić osłonę (10), gdzie normalnie karabin laserowy (3) by nic jej nie robił.
 
 ## Materiały i linki
 
  * [FITS](f_PL_FITS_printer.pdf) - Świetny system RPG autorstwa Rukasu, oparty tylko na Aspektach.
  * [Rukasu-o-FITS](Rukasu-o-FITS.txt) - Kilka wyjaśnień Rukasu dlaczego tak, a nie inaczej FITS działa
  * [kadufate2012](kadufate2012.pdf) - System kaduFATE, lekki, prosty i przyjemny, autorstwa Kaduceusza
- * [fZine](fZine.pdf) - Wybrane materiały i przemyślenia na bazie systemu FUDGE
- * [Injury](Injury.pdf) - Kilka uwag na temat obrażeń
- * [twists](twists.pdf) - Ciekawy wycinek z Fate 2.0
+ * [fZine](fZine.pdf) - Wybrane materiały z Fudge Factor i przemyślenia na bazie systemu FUDGE
+ * [Injury](Injury.pdf) - Kilka uwag z Fudge Factor na temat obrażeń
+ * [twists](twists.pdf) - Wycinek z Fate 2.0 na temat testów i poziomów trudności
  * [RisusLicenseInformation](RisusLicenseInformation.pdf) - Informacja na temat licencji Risus
 
-Wszystkie materiały wyżej zalinkowane posiadają (a przynajmniej tak mi się wydaje) info o tym skąd pochodzą, kto jest autorem - w każdym razie nie jestem to ja.
+Wszystkie materiały wyżej zalinkowane posiadają info o tym skąd pochodzą i kto jest autorem. Były/są one dostępne za darmo na oficjalnych stronach, wszelkie prawa autorskie należą do ich autorów/wydawnictw.
 
  * http://www.risusiverse.com - dużo materiałów do systemu Risus
- * http://risus.cumberlandgames.com - można za darmo pobrać Risus, przygodę Risus: Toast of the Town, czy Big List of RPG Plots ale też za ~$10 Risus Companion, rozbudowane kompendium na temat Risus, z wieloma opcjonalnymi zasadami, wyjaśnieniami itd
+ * http://risus.cumberlandgames.com - można za darmo pobrać Risus, przygodę Risus: Toast of the Town, czy Big List of RPG Plots ale też za niewielką opłatą Risus Companion, rozbudowane (~60 stron) kompendium na temat Risus, z wieloma opcjonalnymi zasadami, wyjaśnieniami itd

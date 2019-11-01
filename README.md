@@ -3,7 +3,7 @@
 
 Niniejszy dokument jest autorskim tłumaczeniem/wyjaśnieniem/rozbudową zasad gry Risus: The Anything RPG, wersji 2.01 autorstwa S. Johna Rossa.
 
-Wersja 0.2.0 https://github.com/johnykvsky/risusrpg
+Wersja 0.2.1 https://github.com/johnykvsky/risusrpg
 
 ## Słowo wstępu
 
@@ -17,7 +17,7 @@ Dla znających Fate mały słowniczek, w Risus występuje Opis, to odpowiednik H
 
 W grze nie ma współczynnkiów, umiejętności itp rzeczy - zamiast tego mamy **Opis** oraz **Klisze**. 
 
-Tworząc postać najpierw ją opisujemy. Fate swój High Concept (odpowiednik Opisu) określa jako: "To pojedyncza fraza lub zdanie, które zgrabnie podsumowuje bohatera – opisuje, kim jest, czym się zajmuje, jak się zachowuje". Na przykład: "Awanturniczy szmugler-hazardzista, z własnym statkiem" - i Han Solo jest nasz. Przynajmniej opis. Zostały jeszcze Klisze. Ponownie sięgając do Fate i Aspektów (odpowiednik Kliszy), Klisza to: "słowo, wyrażenie lub zdanie, które opisuje coś istotnego dla twojej postaci". Na wypisane Klisze mamy do podziału 10 punktów z następującymi uwagami:
+Tworząc postać najpierw ją opisujemy. W Fate High Concept, czyli Risusowy **Opis to: "To pojedyncza fraza lub zdanie, które zgrabnie podsumowuje bohatera – opisuje, kim jest, czym się zajmuje, jak się zachowuje"**. Na przykład: "Awanturniczy szmugler-hazardzista, z własnym statkiem" - i Han Solo jest nasz. Przynajmniej opis. Zostały jeszcze Klisze. Ponownie sięgając do Fate i Aspektów (odpowiednik Kliszy), **Klisza to: "słowo, wyrażenie lub zdanie, które opisuje coś istotnego dla twojej postaci"**. Na wypisane Klisze mamy do podziału 10 punktów z następującymi uwagami:
 
   - do jednej Kliszy nie możemy przypisać więcej niż 4 punkty
   - nie możemy mieć na starcie więcej niż 10 Klisz (co chyba oczywiste, bo mamy tylko 10 punktów...)
@@ -33,7 +33,7 @@ Opcjonalna zasada: każda z postaci zaczyna grę z 1 **Szczęśliwym Trafem** - 
 
 W grze występują 3 rodzaje testów: **Rzut Na**, **Test Jednej Akcji** i **Konflikt.**
 
-- Rzut Na
+1. Rzut Na
 
 Typowy jednostronny test, kiedy postać sprawdza sama siebie - czy wyważyła drzwi, czy przekoczyła przepaść itp. Polega na ustaleniu (przez Mistrza Gry) poziomu trudności, następnie wybraniu Kliszy z której będziemy korzystać (musi to mieć sens) i rzucie tyloma kostkami k6 ile wynosi nasza Klisza. 
 
@@ -51,13 +51,13 @@ Wartości są orientacyjne, równie dobrze Mistrz Gry może przy prostym teście
 
 Jeśli chcemy przeskoczyć nad przepaścią, jesteśmy Ekspertem - _Tarzan (4)_ - poziom trudności jest dla nas Prosty, rzucamy 4k6 i jeśli wypadło domyślne 11 lub więcej, to przeskoczyliśmy. Ale dla kolegi naukowca, który ma jedynie Kliszę _Podróżnik (1)_, która tu pasuje - z uwzględnieniem stopniowania to będzie _Bardzo trudne_, poziom trudności 5 przy rzucie 1k6.
 
-- Test Jednej Akcji
+2. Test Jednej Akcji
 
 Czasami dwie postacie (lub kilka) starają się wykonać tą samą rzecz w tym samym czasie, udać się może tylko jednej, np. kto pierwszy sięgnie po leżący na podłodze pistolet. Wtedy rzucamy dla każdej z postaci tyloma kostkami k6 ile ma Klisza, która najlepiej pasuje do użycia w danej sytuacji i kto ma lepszy wynik - ten wygrał. Ma pistolet, inni nie, być może zaczyna się walka, czyli _Konflikt_.
 
-- Konflikt i obrażenia
+3. Konflikt i obrażenia
 
-Podczas Konfliktu obie strony wybierają jakiej Kliszy używają i wykonują test, rzucają tyloma kostkami k6 ile punktów mają w najlepiej pasującej Kliszy, sumując wyniki. Ten komu test wyszedł lepiej - wygrywa. 
+Podczas Konfliktu obie strony wybierają jakiej Kliszy używają (musi oczywiście pasować do danej akcji) i wykonują test rzucając tyloma kostkami k6 ile punktów mają w najlepiej pasującej Kliszy, sumując wyniki. Ten komu test wyszedł lepiej - wygrywa. 
 
 Z Konfliktem zazwyczaj powiązany jest skutek, często to obrażenia (ale niekoniecznie fizyczne): po każdym starciu (rundzie Konfliktu, może to być wymiana ciosów, okrążenie wyścigu itd ) przegrana strona tymczasowo odejmuje 1 od liczby punktów przypisanych do wybranej Kliszy (i w następnej rundzie rzuca mniejszą ilością kości). Jak ilość osiągnie 0 - przegrała. To nie znaczy, że nie żyje, punkty Kliszy to nie Kondycja. Po prostu jest pokonana, można ją rozbroić, związać, ogłuszyć, wygnać, ośmieszyć przed tłumem itp itd. Można też zabić, ale nie jest to równoznaczne z przegraniem.
 
@@ -67,13 +67,13 @@ Co ważne - Klisze można zmieniać między rundami, o ile ma to sens. Jeśli ma
 
 Po walce punkty Kliszy regenerują się (w zależności od okoliczności szybciej lub wolniej, decyduje Mistrz Gry) - jeśli to była np. walka pojazdami, to przegrany pojazd raczej jest w ruinie i Klisza przegranego może wrócić do poziomu bazowego, ale pojazd sam się nie odnowi. 
 
-- Bonusowa Kość
+4. Bonusowa Kość
 
-Jeśli okoliczności komuś sprzyjają, jedna ze stron dostaje dodatkową kość przy testowaniu. Np. jeśli strzelamy do przeciwnika, który ucieka, dostanie on kość dlatego, że jest w ruchu i trudniej go trafić, ma lepszą "obronę". Ale jeśli my stoimy, a on biegnąc strzela do nas, to my dostajemy dodatkową kość ponieważ jemu trudniej się strzela w biegu. Nie ma to wpływu na obrażenia. Ten sam mechanizm można zastosować do przewagi wynikającej z terenu itp. Analogicznie jeśli jedna ze stron ma przewagę uzbrojenia, np. miecz a druga strona nie ma broni czy jakiś mały sztylet - postać z mieczem dostaje _Bonusową Kość_ do czasu aż nie straci miecza, lub przeciwnik czegoś podobnego sobie nie załatwi. Jeśli straci miecz, przeciwnik ze sztyletem dostanie _Bonusową Kość_ za przewagę uzbrojenia. Tak samo jeśli Konfliktem są wyścigi i ktoś ma lepszy statek kosmiczny/auto, dostaje _Bonusową Kość_. Czasami mogą to być nawet dwie lub więcej jeśli przewaga jest faktycznie bardzo duża.
+Jeśli okoliczności komuś sprzyjają, jedna ze stron dostaje dodatkową kość przy testowaniu. Np. jeśli strzelamy do przeciwnika, który ucieka, dostanie on kość dlatego, że jest w ruchu i trudniej go trafić, ma lepszą "obronę". Ale jeśli my stoimy, a on biegnąc strzela do nas, to my dostajemy dodatkową kość ponieważ jemu trudniej się strzela w biegu (ew. jeśli Konflikt się nie rozpoczął jeszcze, to będzie to Rzut na dla strzelajcego z wyższym poziomem trudności za bieg). Nie ma to wpływu na obrażenia. Ten sam mechanizm można zastosować do przewagi wynikającej z terenu itp. Analogicznie jeśli jedna ze stron ma przewagę uzbrojenia, np. miecz a druga strona nie ma broni czy jakiś mały sztylet - postać z mieczem dostaje _Bonusową Kość_ do czasu aż nie straci miecza, lub przeciwnik czegoś podobnego sobie nie załatwi. Jeśli straci miecz, przeciwnik ze sztyletem dostanie _Bonusową Kość_ za przewagę uzbrojenia. Tak samo jeśli Konfliktem są wyścigi i ktoś ma lepszy statek kosmiczny/auto, dostaje _Bonusową Kość_. Czasami mogą to być nawet dwie lub więcej jeśli przewaga jest faktycznie bardzo duża.
 
 ## 3. Dotkliwa Porażka / Spektakularne Zwycięztwo
 
-Niekiedy porażka w Konflikcie jest wyjątkowo dotkliwa, ze względu na okoliczności lub zachowanie przeciwnika, który nas pokonał - wtedy MG może przypisać postaci gracza Kliszę, np. _Naznaczony zemstą (1)_. Ma to swoje negatywne i pozytywne skutki - negatywne, bo może przejąć kontrolę nad postacią. Np. przy innej okazji, kiedy lepiej prześć obok, postać po teście (poziom trudności określa Mistrz Gry) na _Naznaczony zemstą (1)_ rzuci wszystko i z okrzykiem na ustach zaatakuje swojego największego wroga, który ją przecież upokorzył. A pozytywne, bo w pewnych okolicznościach oblany test (poziom trudności określa Mistrz Gry) na _Naznaczonego zemstą_ może dać bonusowy _Szczęśliwy Traf_. Np. przy finałowym starciu w danej przygodzie, z racji chęci odkupienia swoich win podczas walki z szarą eminencją, która terroryzowała tą miejscowość i po jej pokonaniu wszyscy zapomną i tamtej sprawie ciesząc się, że teraz będzie już spokojnie. _Naznaczony zemstą_ jest wtedy dodatkową motywacją do pokonania przeciwnika. Przykładowa postać z _Naznaczony zemstą (1)_ może pakować się w kłopoty, podejmować bardziej ryzykowne zachowania chcąc odkupić swoją winę - czasami to gracz sam tak zadecyduje, a czasami oblany test go zmusi do działania. Tak jak Mistrz Gry Kliszę przyznał, tak może uznać, że już jest ona nieaktualna i ją wykreślić.
+Niekiedy porażka w Konflikcie jest wyjątkowo dotkliwa, ze względu na okoliczności lub zachowanie przeciwnika, który nas pokonał - wtedy MG może przypisać postaci gracza Kliszę, np. **_Naznaczony zemstą (1)_**. Ma to swoje negatywne i pozytywne skutki - negatywne, bo może przejąć kontrolę nad postacią. Np. przy innej okazji, kiedy lepiej prześć obok, postać po teście (poziom trudności określa Mistrz Gry) na _Naznaczony zemstą (1)_ rzuci wszystko i z okrzykiem na ustach zaatakuje swojego największego wroga, który ją przecież upokorzył. A pozytywne, bo w pewnych okolicznościach oblany test (poziom trudności określa Mistrz Gry) na _Naznaczonego zemstą_ może dać bonusowy _Szczęśliwy Traf_. Np. przy finałowym starciu w danej przygodzie, z racji chęci odkupienia swoich win podczas walki z szarą eminencją, która terroryzowała tą miejscowość i po jej pokonaniu wszyscy zapomną i tamtej sprawie ciesząc się, że teraz będzie już spokojnie. _Naznaczony zemstą_ jest wtedy dodatkową motywacją do pokonania przeciwnika. Przykładowa postać z _Naznaczony zemstą (1)_ może pakować się w kłopoty, podejmować bardziej ryzykowne zachowania chcąc odkupić swoją winę - czasami to gracz sam tak zadecyduje, a czasami oblany test go zmusi do działania. Tak jak Mistrz Gry Kliszę przyznał, tak może uznać, że już jest ona nieaktualna i ją wykreślić.
 
 Analogicznie za spektakularne zwycięztwo można też przypisać Kliszę. Np. po pokonaniu smoka może postać dostać kliszę _Pogromca smoków (1)_. Dotkliwa Porażka, a szczególnie Spektakularne Zwycięztwo, to na prawdę wyjątkowe sytuacje i dodatkowe Klisze powinny być dodawane bardzo sporadycznie (np. raz na kilka przygód). 
 
@@ -97,7 +97,7 @@ Oczywiście wszelkie utraty punktów Kliszy są tymczasowe i podlegają normalne
 
 ## 5. Rozwój
 
-Nowe Klisze powinny być dodawane w wyjątkowych sytuacjach, za zgodą Mistrza Gry, kiedy to jest uzasadnione fabuarnie. Czasami fabularne uzasadnienie może mieć zamiana Kliszy, zastąpienie jednej zupełnie inną o wartości 1. A jeśli chodzi o zwiększanie Klisz - na koniec przygody gracz może rzucić na jedną wybraną Kliszę dwoma kostkami, jeśli wypadnie na obu ta sama liczba oczek (np. 2x2, 2x4 itd) i wartość na jednej kostce jest więszka niż wartość Kliszy - gracz może podwyższyć Kliszę o 1.
+**Nowe Klisze powinny być dodawane w wyjątkowych sytuacjach, za zgodą Mistrza Gry, kiedy to jest uzasadnione fabuarnie.** Czasami fabularne uzasadnienie może mieć zamiana Kliszy, zastąpienie jednej zupełnie inną o wartości 1. A jeśli chodzi o zwiększanie Klisz - na koniec przygody gracz może rzucić na jedną wybraną Kliszę dwoma kostkami, jeśli wypadnie na obu ta sama liczba oczek (np. 2x2, 2x4 itd) i wartość na jednej kostce jest więszka niż wartość Kliszy - gracz może podwyższyć Kliszę o 1.
 
 ## 6. Ciemna Strona
 
@@ -111,7 +111,7 @@ Im częściej Ciemna Strona wygrywa, tym silniejsza się staje, tym trudniej ją
 
 ## 7. Pancerz
 
-Każda pancerz, zbroja itp osłona (np. pole siłowe) jest Kliszą i ma swoją wartość. Czyli np. _Kolczuga (1)_. W czasie walki obrażenia jakie dostajemy schodzą najpierw z kolczugi, a dopiero potem z naszej Kliszy. Nic nie stoi na przeszkodzie aby mieć kilka takich Klisz, np. troll w kolczudze: _Skóra (1)_, _Kolczuga (1)_. Czyli w _Wojownik (3)_ w _Kolczudze (1)_ jak straci punkt po przegranym starciu, nic nie odejmuje od Kliszy, kolczuga go ochroniła. Kolejne przegrane starcie odliczane jest już normalnie od Kliszy. Wartości z pancerza podobnie jak wartości z Kliszy spadają do 0 i regenerują się po walce.
+Każda pancerz, zbroja itp osłona (np. pole siłowe) jest Kliszą i ma swoją wartość. Czyli np. _Kolczuga (1)_. **W czasie walki obrażenia jakie dostajemy schodzą najpierw z kolczugi, a dopiero potem z naszej Kliszy.** Nic nie stoi na przeszkodzie aby mieć kilka takich Klisz, np. troll w kolczudze: _Skóra (1)_, _Kolczuga (1)_. Czyli w _Wojownik (3)_ w _Kolczudze (1)_ jak straci punkt po przegranym starciu, nic nie odejmuje od Kliszy, kolczuga go ochroniła. Kolejne przegrane starcie odliczane jest już normalnie od Kliszy. Wartości z pancerza podobnie jak wartości z Kliszy spadają do 0 i regenerują się wraz z regeneracją Kliszy.
 
 ## 8. Dark Risus, czyli mechanika wersja Gritty
 
@@ -119,7 +119,7 @@ Czasami przygoda lub setting lepiej by pasowała do nieco bardziej przyziemnych 
 
 Bez zmian zostaje zasada o _Bonusowej Kości_.
 
-- Drabinka Zdrowia
+1. Drabinka Zdrowia
 
 Przegrane starcie w Konflikcie nie zmniejsza automatycznie Kliszy. Zamiast tego występuje Drabinka zdrowia:
 
@@ -134,15 +134,15 @@ Na niej zaznaczamy kolejne obrażenia.
 - _Uziemiony_ to praktycznie nieprzytomny, a na pewno nie zdatny do walki czy jakiejkolwiek dalszej samodzielnej akcji. 
 - _Agonia_ - jeśli w rozsądnym czasie postać nie zostanie opatrzona, umiera. 
 
-To jest standardowa drabinka dla postaci - różne rasy, potwory itp mogą mieć inną drabinkę, dłuższą lub krótszą, aby odzwierciedlić słabszych przeciwników oraz tzw. bossów.
+To jest standardowa drabinka dla postaci - **różne rasy, potwory itp mogą mieć inną drabinkę, dłuższą lub krótszą**, aby odzwierciedlić słabszych przeciwników oraz tzw. bossów.
 
-- Testy
+2. Testy
 
-W wersji przygodowej rzucaliśmy tyloma kośćmi ile ma Klisza, a wynik był sumowany, kto ma więcej, ten wygrał. Tutaj jest inaczej: rzucamy tyloma kośćmi ile ma Klisza, następnie wyniki 4, 5 i 6 traktujemy jako Sukces, resztę pomijamy. Wynik 6 dodatkowo przerzucamy, co może dać nam kolejne Sukcesy. 
+W wersji przygodowej rzucaliśmy tyloma kośćmi ile ma Klisza, a wynik był sumowany, kto ma więcej, ten wygrał. Tutaj jest inaczej: **rzucamy tyloma kośćmi ile ma Klisza, następnie wyniki 4, 5 i 6 traktujemy jako Sukces, resztę pomijamy**. Wynik 6 dodatkowo przerzucamy, co może dać nam kolejne Sukcesy. 
 
-Jeśli to test typu Konflikt - kto miał więcej Sukcesów, ten wygrał. 
+Jeśli to **test typu Konflikt** - kto miał więcej Sukcesów, ten wygrał. 
 
-Jeśli to test typu Rzut Na, to poziom trudności wygląda następująco (poniżej wymagana ilość sukcesów) :
+Jeśli to **test typu Rzut Na**, to poziom trudności wygląda następująco (poniżej wymagana ilość sukcesów) :
  
   | Łatwy  | Normalny | Trudny | Bardzo trudny | Legendarny | Prawie niemożliwy |
   |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -152,25 +152,25 @@ Jeśli postać nie posiada Kliszy - rzuca jedną kością i tylko wynik 6 oznacz
 
 Opcjonalnie można uznać, że jeśli postać ma jakiś Sukces w rzucie, ale nie ma ich tyle ile potrzeba - wynik jest mieszany, czyli nie udało się, ale jakiś pozytywny efekt został osiągnięty, lub udało się, ale coś dodatkowo poszło nie tak.
 
-Jeśli jest to test typu Test Jednej Akcji - wygrywa ten kto osiągnął więcej Sukcesów. Jeśli remis nie jest możliwy (ktoś musi pierwszy sięgnąć po ten pistolet na podłodze...), należy wykonać kolejny test, aż do wyłonienia wyganego.
+Jeśli jest to **test typu Test Jednej Akcji** - wygrywa ten kto osiągnął więcej Sukcesów. Jeśli remis nie jest możliwy (ktoś musi pierwszy sięgnąć po ten pistolet na podłodze...), należy wykonać kolejny test, aż do wyłonienia wyganego.
 
-W przypadku Konfliktu często efektem są obrażenia - wynoszą one tyle ile Sukcesów więcej miała wygrana strona. Jeśli Aragorn miał 3 Sukcesy, a Ork tylko 1 - w takim razie Ork dostaje 2 obrażenia. Opcjonalnie można uznać, że obrażenia wynoszą tyle ile Sukcesów miał wygrywający, nie odejmujemy Sukcesów przegranego.
+W przypadku Konfliktu często efektem są **obrażenia - wynoszą one tyle ile Sukcesów więcej miała wygrana strona**. Jeśli Aragorn miał 3 Sukcesy, a Ork tylko 1 - w takim razie Ork dostaje 2 obrażenia. Opcjonalnie można uznać, że obrażenia wynoszą tyle ile Sukcesów miał wygrywający, nie odejmujemy Sukcesów przegranego.
 
-- Drużynowo
+3. Drużynowo
 
 Analogicznie jak było, w przypadku zawiązania Drużyny, jej przywódca normalnie liczy sukcesy, a pozostali członkowie Drużyny jako sukces liczą tylko wyrzucone 6.
 
-- Pancerz
+4. Pancerz
 
-Dodatkowa zasada: ponieważ tutaj obrażenia są większe niż 1 (jak w wersji przygodowej) zmianie ulega sposób funkcjonowania wartości pancerza - nadal odlicza się od niego wartość obrażeń, ale tym razem jest to stała wartość. Czyli _Kolczuga (2)_ przy każdym ciosie odejmuje nam 2 od obrażeń, więc czasami nas chroni przed jakimikolwiek obrażeniami.
+Dodatkowa zasada: ponieważ tutaj obrażenia są większe niż 1 (jak w wersji przygodowej) zmianie ulega sposób funkcjonowania wartości pancerza - nadal **odlicza się od niego wartość obrażeń, ale tym razem jest to niezmienna wartość**. Czyli _Kolczuga (2)_ przy każdym ciosie odejmuje nam 2 od obrażeń, więc czasami nas chroni przed jakimikolwiek obrażeniami.
 
-- Broń
+5. Broń
 
-Broń może także posiadać swoją Kliszę z obrażeniami. Np. _Strzelba plazmowa (3)_ zadaje dodatkowe 3 obrażenia, czyli przy trafieniu z Sukcesem +2 łącznie zadajemy 5 obrażeń. Jeśli przeciwnik nie ma pancerza, to jest na 5 kratce w Drabince Zdrowia, _Uziemiony_.
+**Broń może także posiadać swoją Kliszę z obrażeniami**. Np. _Strzelba plazmowa (3)_ zadaje dodatkowe 3 obrażenia, czyli przy trafieniu z Sukcesem +2 łącznie zadajemy 5 obrażeń. Jeśli przeciwnik nie ma pancerza, to jest na 5 kratce w Drabince Zdrowia, _Uziemiony_.
 
 ## Podsumowanie
 
-Risus jest systemem bardzo uniwersalnym, łatwym do prowadzenia, dającym dużo zabawy. W tej wersji, czyli Risus3xF, można wybrać między domyślną konwencją przygodową, a nieco bardziej przyziemną. Polecam poczytać materiały na temat Fudge i Fate - podstawowe zasady są podobne, wiele informacji będzie adekwatnych do Risus3xF.
+Risus jest systemem bardzo uniwersalnym, łatwym do prowadzenia, dającym dużo zabawy. W tej wersji, czyli Risus3xF, można wybrać między domyślną konwencją przygodową, a nieco bardziej przyziemną. Polecam poczytać materiały na temat Fudge i Fate - podstawowe zasady są podobne, wiele informacji będzie adekwatnych do Risus3xF. Na stronie Risusiverse można znaleźć dużo dodatkowych materiałow, alternatywnych zasad, przykładów podejścia do magii - warto tam zajrzeć.
 
 ## Materiały i linki
 

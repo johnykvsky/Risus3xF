@@ -3,32 +3,29 @@
 
 Niniejszy dokument jest autorskim tłumaczeniem/wyjaśnieniem/rozbudową zasad gry Risus: The Anything RPG, wersji 2.01 autorstwa S. Johna Rossa.
 
-Wersja 0.1.2 https://github.com/johnykvsky/risusrpg
+Wersja 0.2.0 https://github.com/johnykvsky/risusrpg
 
 ## Słowo wstępu
 
-Zawsze ceniłem proste mechaniki: FUDGE, FATE, FITS (3xF - przypadek?). Takie w którch statystyki i cyferki są sprawą drugoplanową, najważniejsza jest opowieść. Mniej drobiazgów rozprasza, nie trzeba wertować podręcznika, nikt nie wyciąga z rękawa przepisów z 75 strony 4 dodatku do 5 edycji (a niektórzy gracze to lubią), nie patrzy się na postać jak na zbiór liczb, ale jak na... postać. Szczególnie FITS mi przypadł do gustu - nie ma listy umiejętności, cech itp - cały podręcznik to dwie strony, zasady są proste, zabawa przednia. To nadal mechanika, można prowadzić starcia, rzucać czary, otwierać zamki itd poprzez sprawdzenie odpowiednich Atrybutów. Podobne podejście prezentuje **Risus - RPG w którym możesz wszystko**. Aby łatwiej było określić o jakiej wersji Risus ktoś mówi mając na myśli poniższe zasady - nazwijmy je **Risus3xF**.
+Zawsze ceniłem proste mechaniki: FUDGE, FATE, FITS (3xF - przypadek?). Takie w którch statystyki i cyferki są sprawą drugoplanową, najważniejsza jest opowieść. Mniej drobiazgów rozprasza, nie trzeba wertować podręcznika, nikt nie wyciąga z rękawa przepisów z 75 strony 4 dodatku do 5 edycji (a niektórzy gracze to lubią), nie patrzy się na postać jak na zbiór liczb, ale jak na... postać. Szczególnie FITS mi przypadł do gustu - nie ma listy umiejętności, cech itp - cały podręcznik to dwie strony, zasady są proste, zabawa przednia. To nadal mechanika, można prowadzić starcia, rzucać czary, otwierać zamki itd poprzez sprawdzenie odpowiednich Aspektów. Podobne podejście prezentuje **Risus - RPG w którym możesz wszystko**. Aby łatwiej było określić o jakiej wersji Risus ktoś mówi mając na myśli poniższe zasady - nazwijmy je **Risus3xF**.
+
+## Risus a Fate
+
+Dla znających Fate mały słowniczek, w Risus występuje Opis, to odpowiednik High Concept z Fate (Koncepcja ogólna z Fate PL), a Klisza to Aspect (Aspekt z Fate PL). Na końcu tego dokumentu zamieściłem linki do Fate, Fate PL, FUDGE i innych systemów i ciekawych materiałów - warto się z nimi zapoznać. Można tam podpatrzeć różne rozwiązania (np. Approaches / Postawy).
 
 ## 1. Tworzenie postaci
 
-W grze nie ma współczynnkiów, umiejętności itp rzeczy - zamiast tego mamy **Opis** oraz **Klisze**.
+W grze nie ma współczynnkiów, umiejętności itp rzeczy - zamiast tego mamy **Opis** oraz **Klisze**. 
 
-Opis: "Sprytny szmugler-hazardzista, z własnym statkiem" - i Han Solo jest nasz. Przynajmniej opis. Zostały jeszcze Klisze. Na Klisze mamy 10 punktów z następującymi uwagami:
+Tworząc postać najpierw ją opisujemy. Fate swój High Concept (odpowiednik Opisu) określa jako: "To pojedyncza fraza lub zdanie, które zgrabnie podsumowuje bohatera – opisuje, kim jest, czym się zajmuje, jak się zachowuje". Na przykład: "Awanturniczy szmugler-hazardzista, z własnym statkiem" - i Han Solo jest nasz. Przynajmniej opis. Zostały jeszcze Klisze. Ponownie sięgając do Fate i Aspektów (odpowiednik Kliszy), Klisza to: "słowo, wyrażenie lub zdanie, które opisuje coś istotnego dla twojej postaci". Na wypisane Klisze mamy do podziału 10 punktów z następującymi uwagami:
 
   - do jednej Kliszy nie możemy przypisać więcej niż 4 punkty
   - nie możemy mieć na starcie więcej niż 10 Klisz (co chyba oczywiste, bo mamy tylko 10 punktów...)
 
-Nasz Han Solo może mieć Klisze: 
-Pilot (4), Hazardzista (3), Szmugler (2), Rewolwerowiec (1). 
+Nasz Han Solo może mieć Klisze: Pilot (4), Hazardzista (3), Szmugler (2), Rewolwerowiec (1). 
+Albo:  Rewolwerowiec (3), Pilot (3), Szmugler (2), Hazardzista (1), Amant (1). 
 
-I koniec, 10. Albo:  
-Rewolwerowiec (3), Pilot (3), Szmugler (2), Hazardzista (1), Amant (1). 
-
-I tak dalej. Wedle uznania. A może jednak Aragorn? Proszę bardzo: 
-
-Milczący Strażnik (4), Przyjaciel Elfów (3), Król na wygnaniu (3). 
-
-Gotowe.
+I tak dalej. Wedle uznania. A może jednak Aragorn? Proszę bardzo: Milczący Strażnik (4), Przyjaciel Elfów (3), Król na wygnaniu (3). Gotowe.
 
 Opcjonalna zasada: każda z postaci zaczyna grę z 1 **Szczęśliwym Trafem** - używając go może dodać do właśnie wykonywanego testu 1 kość więcej. _Szczęśliwy Traf_ wtedy przepada i wróci ponownie po zakończeniu przygody.
 
@@ -52,7 +49,7 @@ Orientacyjne poziomy trudności (w nawiasach poziom Kliszy, czyli ilość punkt�
 
 Wartości są orientacyjne, równie dobrze Mistrz Gry może przy prostym teście dla Ekspera ustalić poziom na 10 czy 8. Stopniowanie jest standardowo o 1 w górę/dół, czyli coś _Prawie niewykonalne_ dla Początkującego, to _Bardzo trudne_ dla Amatora, _Trudne_ dla Zawodowca i _Niezbyt trudne_ dla Eksperta.
 
-Jeśli chcemy przeskoczyć nad przepaścią, jesteśmy Ekspertem - _Tarzan (4)_ - poziom trudności jest dla nas Prosty, rzucamy 4k6 i jeśli wypadło 11 lub więcej, to przeskoczyliśmy. Ale dla kolegi naukowca, który ma jedynie Kliszę _Podróżnik (1)_, która tu pasuje - z uwzględnieniem stopniowania to będzie _Bardzo trudne_, poziom trudności 5 przy rzucie 1k6.
+Jeśli chcemy przeskoczyć nad przepaścią, jesteśmy Ekspertem - _Tarzan (4)_ - poziom trudności jest dla nas Prosty, rzucamy 4k6 i jeśli wypadło domyślne 11 lub więcej, to przeskoczyliśmy. Ale dla kolegi naukowca, który ma jedynie Kliszę _Podróżnik (1)_, która tu pasuje - z uwzględnieniem stopniowania to będzie _Bardzo trudne_, poziom trudności 5 przy rzucie 1k6.
 
 - Test Jednej Akcji
 
@@ -62,7 +59,7 @@ Czasami dwie postacie (lub kilka) starają się wykonać tą samą rzecz w tym s
 
 Podczas Konfliktu obie strony wybierają jakiej Kliszy używają i wykonują test, rzucają tyloma kostkami k6 ile punktów mają w najlepiej pasującej Kliszy, sumując wyniki. Ten komu test wyszedł lepiej - wygrywa. 
 
-Z Konfliktem zazwyczaj powiązany jest skutek, często to obrażenia: po każdym starciu (rundzie Konfliktu) przegrana strona tymczasowo odejmuje 1 od liczby punktów przypisanych do wybranej Kliszy (i w następnej rundzie rzuca mniejszą ilością kości). Jak ilość osiągnie 0 - przegrała. To nie znaczy, że nie żyje, punkty Kliszy to nie Kondycja. Po prostu jest pokonana, można ją rozbroić, związać, ogłuszyć, wygnać, ośmieszyć przed tłumem itp itd. Można też zabić, ale nie jest to równoznaczne z przegraniem.
+Z Konfliktem zazwyczaj powiązany jest skutek, często to obrażenia (ale niekoniecznie fizyczne): po każdym starciu (rundzie Konfliktu, może to być wymiana ciosów, okrążenie wyścigu itd ) przegrana strona tymczasowo odejmuje 1 od liczby punktów przypisanych do wybranej Kliszy (i w następnej rundzie rzuca mniejszą ilością kości). Jak ilość osiągnie 0 - przegrała. To nie znaczy, że nie żyje, punkty Kliszy to nie Kondycja. Po prostu jest pokonana, można ją rozbroić, związać, ogłuszyć, wygnać, ośmieszyć przed tłumem itp itd. Można też zabić, ale nie jest to równoznaczne z przegraniem.
 
 Konflikt to walka, starcie, rywalizacja. Tak samo rozstrzygnąć można wyścigi, pojedynek na recytację, walkę psychiczną, starcie powietrzne itd. Dlatego jak Klisza osiąga 0 nie znaczy to od razu śmierci, tylko przegranie Konfliktu.
 
@@ -72,19 +69,19 @@ Po walce punkty Kliszy regenerują się (w zależności od okoliczności szybcie
 
 - Bonusowa Kość
 
-Jeśli okoliczności komuś sprzyjają, jedna ze stron dostaje dodatkową kość przy testowaniu. Np. jeśli strzelamy do przeciwnika, który ucieka, dostanie on kość dlatego, że jest w ruchu i trudniej go trafić, ma lepszą "obronę". Ale jeśli my stoimy, a on biegnąc strzela do nas, to my dostajemy dodatkową kość ponieważ jemu trudniej się strzela w biegu. Nie ma to wpływu na obrażenia. Ten sam mechanizm można zastosować do przewagi wynikającej z terenu itp. Analogicznie jeśli jedna ze stron ma przewagę uzbrojenia, np. miecz a druga strona nie ma broni czy jakiś mały sztylet - postać z mieczem dostaje _Bonusową Kość_ do czasu aż nie straci miecza, lub przeciwnik czegoś podobnego sobie nie załatwi. Jeśli straci miecz, przeciwnik ze sztyletem dostanie _Bonusową Kość_ za przewagę uzbrojenia. Analogicznie jeśli Konfliktem są wyścigi i ktoś ma lepszy statek kosmiczny/auto, dostaje _Bonusową Kość_.
+Jeśli okoliczności komuś sprzyjają, jedna ze stron dostaje dodatkową kość przy testowaniu. Np. jeśli strzelamy do przeciwnika, który ucieka, dostanie on kość dlatego, że jest w ruchu i trudniej go trafić, ma lepszą "obronę". Ale jeśli my stoimy, a on biegnąc strzela do nas, to my dostajemy dodatkową kość ponieważ jemu trudniej się strzela w biegu. Nie ma to wpływu na obrażenia. Ten sam mechanizm można zastosować do przewagi wynikającej z terenu itp. Analogicznie jeśli jedna ze stron ma przewagę uzbrojenia, np. miecz a druga strona nie ma broni czy jakiś mały sztylet - postać z mieczem dostaje _Bonusową Kość_ do czasu aż nie straci miecza, lub przeciwnik czegoś podobnego sobie nie załatwi. Jeśli straci miecz, przeciwnik ze sztyletem dostanie _Bonusową Kość_ za przewagę uzbrojenia. Tak samo jeśli Konfliktem są wyścigi i ktoś ma lepszy statek kosmiczny/auto, dostaje _Bonusową Kość_. Czasami mogą to być nawet dwie lub więcej jeśli przewaga jest faktycznie bardzo duża.
 
 ## 3. Dotkliwa Porażka / Spektakularne Zwycięztwo
 
-Niekiedy porażka w Konflikcie jest wyjątkowo dotkliwa, ze względu na okoliczności lub zachowanie przeciwnika, który nas pokonał - wtedy MG może przypisać postaci gracza Kliszę, np. _Naznaczony zemstą (1)_. Ma to swoje negatywne i pozytywne skutki - negatywne, bo może przejąć kontrolę nad postacią. Np. przy innej okazji, kiedy lepiej prześć obok, postać po teście (poziom trudności określa Mistrz Gry) na _Naznaczony zemstą (1)_ rzuci wszystko i z okrzykiem na ustach zaatakuje swojego największego wroga, który ją przecież upokorzył. A pozytywne, bo w pewnych okolicznościach oblany test (poziom trudności określa Mistrz Gry) na _Naznaczonego zemstą_ może dać bonusowy _Szczęśliwy Traf_. Np. przy finałowym starciu w danej przygodzie, z racji chęci odkupienia swoich win podczas walki z szarą eminencją, która terroryzowała tą miejscowość i po jej pokonaniu wszyscy zapomną i tamtej sprawie ciesząc się, że teraz będzie już spokojnie. _Naznaczony zemstą_ jest wtedy dodatkową motywacją do pokonania przeciwnika. Tak jak Mistrz Gry Kliszę przyznał, tak może uznać, że już jest ona nieaktualna i ją wykreślić.
+Niekiedy porażka w Konflikcie jest wyjątkowo dotkliwa, ze względu na okoliczności lub zachowanie przeciwnika, który nas pokonał - wtedy MG może przypisać postaci gracza Kliszę, np. _Naznaczony zemstą (1)_. Ma to swoje negatywne i pozytywne skutki - negatywne, bo może przejąć kontrolę nad postacią. Np. przy innej okazji, kiedy lepiej prześć obok, postać po teście (poziom trudności określa Mistrz Gry) na _Naznaczony zemstą (1)_ rzuci wszystko i z okrzykiem na ustach zaatakuje swojego największego wroga, który ją przecież upokorzył. A pozytywne, bo w pewnych okolicznościach oblany test (poziom trudności określa Mistrz Gry) na _Naznaczonego zemstą_ może dać bonusowy _Szczęśliwy Traf_. Np. przy finałowym starciu w danej przygodzie, z racji chęci odkupienia swoich win podczas walki z szarą eminencją, która terroryzowała tą miejscowość i po jej pokonaniu wszyscy zapomną i tamtej sprawie ciesząc się, że teraz będzie już spokojnie. _Naznaczony zemstą_ jest wtedy dodatkową motywacją do pokonania przeciwnika. Przykładowa postać z _Naznaczony zemstą (1)_ może pakować się w kłopoty, podejmować bardziej ryzykowne zachowania chcąc odkupić swoją winę - czasami to gracz sam tak zadecyduje, a czasami oblany test go zmusi do działania. Tak jak Mistrz Gry Kliszę przyznał, tak może uznać, że już jest ona nieaktualna i ją wykreślić.
 
-Analogicznie za spektakularne zwycięztwo można też przypisać Kliszę. Np. po pokonaniu smoka może postać dostać kliszę _Pogromca smoków_. Dotkliwa Porażka, a szczególnie Spektakularne Zwycięztwo, to na prawdę wyjątkowe sytuacje. 
+Analogicznie za spektakularne zwycięztwo można też przypisać Kliszę. Np. po pokonaniu smoka może postać dostać kliszę _Pogromca smoków (1)_. Dotkliwa Porażka, a szczególnie Spektakularne Zwycięztwo, to na prawdę wyjątkowe sytuacje i dodatkowe Klisze powinny być dodawane bardzo sporadycznie (np. raz na kilka przygód). 
 
 ## 4. Drużynowo
 
 Czasami gracze wspólnie coś robią, np. kogoś atakują. Albo grupa atakuje graczy. 
 
-Jeśli to grupa atakuje graczy, to najprościej połączyć część wrogów dając im większą Kliszę. Czyli zamiast 7 razy_Szkielet (1)_ możemy zrobić _Szkielet (3)_ i _Szkielet (4)_ - mniej rzucania. Nadal to będzie 7 szkieletów atakujących graczy, ale nie trzeba rzucać 7 razy, plus jest to większe wyzwania, bo odzwierciedla, że atakują jednocześnie, a nie kolejno, czekając aż gracze pokonają _Szkielet (1)_ i następny podchodzi... Takie grupowanie dotyczyć może tylko mechaniki, czyli _Szkielet (3)_ i _(4)_ na czas walki to nadal 7 razy _Szkielet (1)_ "fizycznie" w danym miejcu atakujących graczy. Każde zdjęcie Kliszy ze _Szielet (3)_ lub _(4)_ oznacza jeden mniej _Szkielet (1)_.
+Jeśli to grupa atakuje graczy, to najprościej połączyć część wrogów dając im większą Kliszę. Czyli zamiast 7 razy _Szkielet (1)_ możemy zrobić _Szkielet (3)_ i _Szkielet (4)_ - mniej rzucania. Nadal to będzie 7 szkieletów atakujących graczy, ale nie trzeba rzucać 7 razy, plus jest to większe wyzwania, bo odzwierciedla, że atakują jednocześnie, a nie kolejno, czekając aż gracze pokonają _Szkielet (1)_ i następny podchodzi... Takie grupowanie dotyczyć może tylko mechaniki, czyli _Szkielet (3)_ i _(4)_ na czas walki to nadal 7 razy _Szkielet (1)_ "fizycznie" w danym miejcu atakujących graczy. Każde zdjęcie Kliszy ze _Szielet (3)_ lub _(4)_ oznacza jeden mniej _Szkielet (1)_.
 
 Jeśli to gracze tworzą Drużynę - tutaj jest trochę inaczej. Drużyna dotyczy jakiejś akcji, w czymś współpracują, np. w walce. Wybierany jest Przywódca, postać o najwyższej Kliszy w danym temacie. Jeśli jest remis - gracze sami wybierają kto nim jest. Następnie wszyscy rzucają koścmi zgodnie z ich Kliszami użytymi w tym momencie, ale tylko Przywódca liczy wszystkie swoje kości normalnie - reszta liczy tylko te na których wypadło 6 i dodaje je do wyniku grupy.
 
@@ -126,14 +123,15 @@ Bez zmian zostaje zasada o _Bonusowej Kości_.
 
 Przegrane starcie w Konflikcie nie zmniejsza automatycznie Kliszy. Zamiast tego występuje Drabinka zdrowia:
 
-Otarcie / Lekko ranny / Ranny / Ciężko ranny / Uziemiony / Agonia.
-
+  | Otarcie  | Lekko ranny | Ranny | Ciężko ranny | Uziemiony | Agonia |
+  |:---|:---:|:---:|:---:|:---:|:---:|
+  
 Na niej zaznaczamy kolejne obrażenia. 
 - _Otarcie_ nie ma ujemnego wpływu. 
 - _Lekko ranny_ - nie ma stałego wpływu, w zależności od sytuacji Mistrz Gry może wprowadzić drobne ograniczenia. 
-- _Ranny_ oznacza -1 do Kliszy. 
-- _Ciężko ranny_ to -2. 
-- _Uziemiony_ to praktycznie nieprzytomny, a na pewno nie zdatny do walki czy jakiejkolwiek dalszej akcji innej niż ucieczka z czyjąś pomocą. 
+- _Ranny_ oznacza -1 do testów Kliszy. 
+- _Ciężko ranny_ to -2 do testów Kliszy. 
+- _Uziemiony_ to praktycznie nieprzytomny, a na pewno nie zdatny do walki czy jakiejkolwiek dalszej samodzielnej akcji. 
 - _Agonia_ - jeśli w rozsądnym czasie postać nie zostanie opatrzona, umiera. 
 
 To jest standardowa drabinka dla postaci - różne rasy, potwory itp mogą mieć inną drabinkę, dłuższą lub krótszą, aby odzwierciedlić słabszych przeciwników oraz tzw. bossów.
@@ -144,9 +142,15 @@ W wersji przygodowej rzucaliśmy tyloma kośćmi ile ma Klisza, a wynik był sum
 
 Jeśli to test typu Konflikt - kto miał więcej Sukcesów, ten wygrał. 
 
-Jeśli to test typu Rzut Na, to poziom trudności wygląda następująco (poziom / ilość Sukcesów): Łatwy: 1 / Normalny: 2 / Trudny: 3 / Bardzo trudny: 4 / Legendarny: 5 / Prawie niemożliwy: 6+
+Jeśli to test typu Rzut Na, to poziom trudności wygląda następująco (poniżej wymagana ilość sukcesów) :
+ 
+  | Łatwy  | Normalny | Trudny | Bardzo trudny | Legendarny | Prawie niemożliwy |
+  |:---:|:---:|:---:|:---:|:---:|:---:|
+  |1|2|3|4|5|6+|
 
 Jeśli postać nie posiada Kliszy - rzuca jedną kością i tylko wynik 6 oznacza Sukces. W przypadku ogólnych testów, np. przeskoczenie nad przepaścią, gdzie nie jest wymagana wiedza, konkretna umiejętność itp a poziom trudności nie jest za wysoki, Mistrz Gry może uznać, że postaci bez Kliszy jako Sukces liczy się wynik 5 lub 6.
+
+Opcjonalnie można uznać, że jeśli postać ma jakiś Sukces w rzucie, ale nie ma ich tyle ile potrzeba - wynik jest mieszany, czyli nie udało się, ale jakiś pozytywny efekt został osiągnięty, lub udało się, ale coś dodatkowo poszło nie tak.
 
 Jeśli jest to test typu Test Jednej Akcji - wygrywa ten kto osiągnął więcej Sukcesów. Jeśli remis nie jest możliwy (ktoś musi pierwszy sięgnąć po ten pistolet na podłodze...), należy wykonać kolejny test, aż do wyłonienia wyganego.
 
@@ -164,14 +168,22 @@ Dodatkowa zasada: ponieważ tutaj obrażenia są większe niż 1 (jak w wersji p
 
 Broń może także posiadać swoją Kliszę z obrażeniami. Np. _Strzelba plazmowa (3)_ zadaje dodatkowe 3 obrażenia, czyli przy trafieniu z Sukcesem +2 łącznie zadajemy 5 obrażeń. Jeśli przeciwnik nie ma pancerza, to jest na 5 kratce w Drabince Zdrowia, _Uziemiony_.
 
+## Podsumowanie
+
+Risus jest systemem bardzo uniwersalnym, łatwym do prowadzenia, dającym dużo zabawy. W tej wersji, czyli Risus3xF, można wybrać między domyślną konwencją przygodową, a nieco bardziej przyziemną. Polecam poczytać materiały na temat Fudge i Fate - podstawowe zasady są podobne, wiele informacji będzie adekwatnych do Risus3xF.
+
 ## Materiały i linki
 
+ * [FUDGE RPG](https://www.fudgerpg.com/goodies/fudge-files/core/FUDGE-1995-Edition-(PDF)/) Od niego wszystko się zaczęło.
+ * [FATE](http://www.faterpg.com/resources/) Fate, zarówno wersje 1 i 2, jak i najnowsza Core i Accelerated plus materiały dodatkowe.
+ * [Fate Accelerated PL](https://zuhar.wordpress.com/fate-accelerated-edition-pl/) Polska wersja Fate Accelerated
  * [FITS](f_PL_FITS_printer.pdf) - Świetny system RPG autorstwa Rukasu, oparty tylko na Aspektach.
  * [Rukasu o FITS](Rukasu-o-FITS.txt) - Kilka wyjaśnień Rukasu dlaczego tak, a nie inaczej FITS działa
  * [kaduFATE 2012](kadufate2012.pdf) - System kaduFATE, lekki, prosty i przyjemny, autorstwa Kaduceusza
- * [fZine](fZine.pdf) - Wybrane materiały z Fudge Factor i przemyślenia na bazie systemu FUDGE
+ * [fZine](fZine.pdf) - Wybrane materiały z Fudge Factor i przemyślenia na bazie systemu Fudge
  * [Injury](Injury.pdf) - Kilka uwag z Fudge Factor na temat obrażeń
- * [twists](twists.pdf) - Wycinek z Fate 2.0 na temat testów i poziomów trudności
+ * [twists](twists.pdf) - Artykuł na temat testów i poziomów trudności (na bazie Fate 2.0)
+ * [Pyramid: Reloaded](pyramidreloaded.pdf) - Artykuł na temat piramidy Aspektów (na bazie Fate 2.0)
  * [Risus License Information](RisusLicenseInformation.pdf) - Informacja na temat licencji Risus
  * [Serious Risus](http://www.larseriklarsen.dk/lel/gamerules/risus/seriousrisus.html) Lars Erik Larsen i jego Serious Risus
  * [Risus Guard](https://medium.com/@Doyce/risus-guard-245b25af5aa) Wersia Risus inspirowna Mouse Guard, autorem jest Doyce Testerman

@@ -3,7 +3,7 @@
 
 Niniejszy dokument jest autorskim tłumaczeniem/wyjaśnieniem/rozbudową zasad gry Risus: The Anything RPG, wersji 2.01 autorstwa S. Johna Rossa.
 
-Wersja 0.2.2 https://github.com/johnykvsky/risusrpg
+Wersja 0.2.2 https://github.com/johnykvsky/Risus3xF
 
 ## Słowo wstępu
 

@@ -1,4 +1,3 @@
-
 # Risus: The Anything RPG - wersja Risus3xF
 
 Niniejszy dokument jest autorskim tłumaczeniem/wyjaśnieniem/rozbudową zasad gry Risus: The Anything RPG, wersji 2.01 autorstwa S. Johna Rossa.
@@ -191,5 +190,5 @@ Risus jest systemem bardzo uniwersalnym, łatwym do prowadzenia, dającym dużo 
 
 Wszystkie materiały wyżej zalinkowane posiadają info o tym skąd pochodzą i kto jest autorem. Były/są one dostępne za darmo na oficjalnych stronach, wszelkie prawa autorskie należą do ich autorów/wydawnictw.
 
- * http://www.risusiverse.com - Dużo materiałów do systemu Risus
- * http://risus.cumberlandgames.com - Oficjalna strona systemu Risus, darmowe i płatne materiały.
+ * [Risus](http://risus.cumberlandgames.com) - Oficjalna strona systemu Risus, darmowe i płatne materiały.
+ * [Risusverse](http://www.risusiverse.com) - Dużo materiałów do systemu Risus

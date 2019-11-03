@@ -3,7 +3,7 @@
 
 Niniejszy dokument jest autorskim tłumaczeniem/wyjaśnieniem/rozbudową zasad gry Risus: The Anything RPG, wersji 2.01 autorstwa S. Johna Rossa.
 
-Wersja 0.2.1 https://github.com/johnykvsky/risusrpg
+Wersja 0.2.2 https://github.com/johnykvsky/risusrpg
 
 ## Słowo wstępu
 
@@ -11,13 +11,13 @@ Zawsze ceniłem proste mechaniki: FUDGE, FATE, FITS (3xF - przypadek?). Takie w 
 
 ## Risus a Fate
 
-Dla znających Fate mały słowniczek, w Risus występuje Opis, to odpowiednik High Concept z Fate (Koncepcja ogólna z Fate PL), a Klisza to Aspect (Aspekt z Fate PL). Na końcu tego dokumentu zamieściłem linki do Fate, Fate PL, FUDGE i innych systemów i ciekawych materiałów - warto się z nimi zapoznać. Można tam podpatrzeć różne rozwiązania (np. Approaches / Postawy).
+Dla znających Fate mały słowniczek, w Risus występuje Opis, to odpowiednik High Concept z Fate ("Koncepcja ogólna" z Fate PL), a Klisza to Aspect ("Aspekt" z Fate PL). Na końcu tego dokumentu zamieściłem linki do Fate, Fate PL, FUDGE i innych systemów i ciekawych materiałów - warto się z nimi zapoznać. Można tam podpatrzeć różne rozwiązania (np. Approaches / Postawy z Fate Accelerated).
 
 ## 1. Tworzenie postaci
 
-W grze nie ma współczynnkiów, umiejętności itp rzeczy - zamiast tego mamy **Opis** oraz **Klisze**. 
+W grze nie ma ani współczynnkiów, ani umiejętności - zamiast tego mamy **Opis** oraz **Klisze**. 
 
-Tworząc postać najpierw ją opisujemy. W Fate High Concept, czyli Risusowy **Opis to: "To pojedyncza fraza lub zdanie, które zgrabnie podsumowuje bohatera – opisuje, kim jest, czym się zajmuje, jak się zachowuje"**. Na przykład: "Awanturniczy szmugler-hazardzista, z własnym statkiem" - i Han Solo jest nasz. Przynajmniej opis. Zostały jeszcze Klisze. Ponownie sięgając do Fate i Aspektów (odpowiednik Kliszy), **Klisza to: "słowo, wyrażenie lub zdanie, które opisuje coś istotnego dla twojej postaci"**. Na wypisane Klisze mamy do podziału 10 punktów z następującymi uwagami:
+Tworząc postać najpierw ją opisujemy. W podręczniku do FAE PL, High Concept, czyli Risusowy **Opis to: "To pojedyncza fraza lub zdanie, które zgrabnie podsumowuje bohatera – opisuje, kim jest, czym się zajmuje, jak się zachowuje"**. Na przykład: "Awanturniczy szmugler-hazardzista, z własnym statkiem" - i Han Solo jest nasz. Przynajmniej opis. Zostały jeszcze Klisze. Ponownie sięgając do FAE PL i Aspektów (odpowiednik Kliszy), **Klisza to: "słowo, wyrażenie lub zdanie, które opisuje coś istotnego dla twojej postaci"**. Na wypisane Klisze mamy do podziału 10 punktów z następującymi uwagami:
 
   - do jednej Kliszy nie możemy przypisać więcej niż 4 punkty
   - nie możemy mieć na starcie więcej niż 10 Klisz (co chyba oczywiste, bo mamy tylko 10 punktów...)
@@ -59,13 +59,15 @@ Czasami dwie postacie (lub kilka) starają się wykonać tą samą rzecz w tym s
 
 Podczas Konfliktu obie strony wybierają jakiej Kliszy używają (musi oczywiście pasować do danej akcji) i wykonują test rzucając tyloma kostkami k6 ile punktów mają w najlepiej pasującej Kliszy, sumując wyniki. Ten komu test wyszedł lepiej - wygrywa. 
 
-Z Konfliktem zazwyczaj powiązany jest skutek, często to obrażenia (ale niekoniecznie fizyczne): po każdym starciu (rundzie Konfliktu, może to być wymiana ciosów, okrążenie wyścigu itd ) przegrana strona tymczasowo odejmuje 1 od liczby punktów przypisanych do wybranej Kliszy (i w następnej rundzie rzuca mniejszą ilością kości). Jak ilość osiągnie 0 - przegrała. To nie znaczy, że nie żyje, punkty Kliszy to nie Kondycja. Po prostu jest pokonana, można ją rozbroić, związać, ogłuszyć, wygnać, ośmieszyć przed tłumem itp itd. Można też zabić, ale nie jest to równoznaczne z przegraniem.
+Z Konfliktem zazwyczaj powiązany jest skutek, często to obrażenia (ale niekoniecznie fizyczne): po każdym starciu (rundzie Konfliktu, może to być wymiana ciosów, okrążenie wyścigu itd) przegrana strona tymczasowo odejmuje 1 od liczby punktów przypisanych do wybranej Kliszy (i w następnej rundzie rzuca mniejszą ilością kości). Jak ilość osiągnie 0 - przegrała. To nie znaczy, że nie żyje, punkty Kliszy to nie Kondycja. Po prostu jest pokonana, można ją rozbroić, związać, ogłuszyć, wygnać, ośmieszyć przed tłumem itp itd. Można też zabić, ale nie jest to równoznaczne z przegraniem.
 
 Konflikt to walka, starcie, rywalizacja. Tak samo rozstrzygnąć można wyścigi, pojedynek na recytację, walkę psychiczną, starcie powietrzne itd. Dlatego jak Klisza osiąga 0 nie znaczy to od razu śmierci, tylko przegranie Konfliktu.
 
 Co ważne - Klisze można zmieniać między rundami, o ile ma to sens. Jeśli mamy Klisze _Fechmistrz(3)_ i _Wykidajło (2)_ to możemy po przegraniu 2 razy z Kliszą _Fechmistrz_ przejść na _Wykidajło (2)_ i próbować dalej walczyć niczym w bójce w barze, wręcz, używając wszystkiego co nam w rękę wpadnie. O ile ma to sens w danej sytuacji.
 
 Po walce punkty Kliszy regenerują się (w zależności od okoliczności szybciej lub wolniej, decyduje Mistrz Gry) - jeśli to była np. walka pojazdami, to przegrany pojazd raczej jest w ruinie i Klisza przegranego może wrócić do poziomu bazowego, ale pojazd sam się nie odnowi. 
+
+Jeśli przeciwnik ma Kliszę używaną w Konflikcie równą 1, tzn. że po pierwszym starciu (o ile przegrał) zostaje wyłączony - to pozwala np. tworzyć bardziej filmowe akcje, gdzie często 1 strzał/cios = 1 przeciwnik mniej.
 
 4. Bonusowa Kość
 
@@ -138,17 +140,17 @@ To jest standardowa drabinka dla postaci - **różne rasy, potwory itp mogą mie
 
 2. Testy
 
-W wersji przygodowej rzucaliśmy tyloma kośćmi ile ma Klisza, a wynik był sumowany, kto ma więcej, ten wygrał. Tutaj jest inaczej: **rzucamy tyloma kośćmi ile ma Klisza, następnie wyniki 4, 5 i 6 traktujemy jako Sukces, resztę pomijamy**. Wynik 6 dodatkowo przerzucamy, co może dać nam kolejne Sukcesy. 
+W wersji przygodowej rzucaliśmy tyloma kośćmi ile ma Klisza, a wynik był sumowany, kto ma więcej, ten wygrał. Tutaj jest inaczej: **rzucamy tyloma kośćmi ile ma Klisza, następnie wyniki 4, 5 i 6 traktujemy jako Sukces, resztę pomijamy**. Wynik 6 dodatkowo przerzucamy, co może dać nam kolejne Sukcesy - rzucamy kostką raz jeszcze i wynik 4, 5 lub 6 daje nam kolejny Sukces, gdzie 6 ponownie pozwala na przerzut. Jeśli postać nie posiada Kliszy, a ma szansę (nie jest potrzebna specjalistyczna wiedza czy umiejętności), rzuca jedną kostką i wynik 5 lub 6 oznacza Sukces, a 6 daje przerzut.
 
 Jeśli to **test typu Konflikt** - kto miał więcej Sukcesów, ten wygrał. 
 
-Jeśli to **test typu Rzut Na**, to poziom trudności wygląda następująco (poniżej wymagana ilość sukcesów) :
+Jeśli to **test typu Rzut Na**, to poziom trudności wygląda następująco (poniżej wymagana ilość Sukcesów) :
  
-  | Łatwy  | Normalny | Trudny | Bardzo trudny | Legendarny | Prawie niemożliwy |
+  | Łatwy  | Normalny | Trudny | Bardzo trudny | Wyjątkowy | Epicki |
   |:---:|:---:|:---:|:---:|:---:|:---:|
   |1|2|3|4|5|6+|
 
-Jeśli postać nie posiada Kliszy - rzuca jedną kością i tylko wynik 6 oznacza Sukces. W przypadku ogólnych testów, np. przeskoczenie nad przepaścią, gdzie nie jest wymagana wiedza, konkretna umiejętność itp a poziom trudności nie jest za wysoki, Mistrz Gry może uznać, że postaci bez Kliszy jako Sukces liczy się wynik 5 lub 6.
+Przy Rzucie Na **rzucamy tyloma kostkami ile ma Klisza + 1**. Jeśli nie mamy Kliszy wcale - rzucamy dwoma kostkami i jako Sukces liczy się tylko 5 lub 6 (gdy mamy Kliszę, normalnie 4, 5 lub 6), gdzie 6 daje przerzut. Czyli ktoś bez Kliszy ma do wykonania Normalany test - potrzebuje rzucić 2 kostkami i mieć na każdej 5 lub 6, dla porównania ktoś z Kliszą (1) rzuca też dwoma kostkami, ale 4, 5 lub 6 na każdej z nich daje mu Sukces. Ktoś z Kliszą (3) wykonując Trudny test musi rzucić czterema kostkami i mieć 3 Sukcesy, a przy Bardzo Trudnym - cztery Sukcesy.
 
 Opcjonalnie można uznać, że jeśli postać ma jakiś Sukces w rzucie, ale nie ma ich tyle ile potrzeba - wynik jest mieszany, czyli nie udało się, ale jakiś pozytywny efekt został osiągnięty, lub udało się, ale coś dodatkowo poszło nie tak.
 

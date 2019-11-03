@@ -178,7 +178,7 @@ Risus jest systemem bardzo uniwersalnym, łatwym do prowadzenia, dającym dużo 
  * [FATE](http://www.faterpg.com/resources/) Fate, zarówno wersje 1 i 2, jak i najnowsza Core i Accelerated plus materiały dodatkowe.
  * [Fate Accelerated PL](https://zuhar.wordpress.com/fate-accelerated-edition-pl/) Polska wersja Fate Accelerated
  * [FITS](f_PL_FITS_printer.pdf) - Świetny system RPG autorstwa Rukasu, oparty tylko na Aspektach.
- * [Rukasu o FITS](Rukasu-o-FITS.txt) - Kilka wyjaśnień Rukasu dlaczego tak, a nie inaczej FITS działa
+ * [Rukasu o FITS](Rukasu-o-FITS.md) - Kilka wyjaśnień Rukasu dlaczego tak, a nie inaczej FITS działa
  * [kaduFATE 2012](kadufate2012.pdf) - System kaduFATE, lekki, prosty i przyjemny, autorstwa Kaduceusza
  * [fZine](fZine.pdf) - Wybrane materiały z Fudge Factor i przemyślenia na bazie systemu Fudge
  * [Injury](Injury.pdf) - Kilka uwag z Fudge Factor na temat obrażeń

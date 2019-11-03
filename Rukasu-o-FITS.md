@@ -1,4 +1,4 @@
-Rukasu jest autorem mechaniki RPG o nazwie FITS, poniżej są jego wyjaśnienia dlaczego tak, a nie inaczej:
+Rukasu jest autorem mechaniki RPG o nazwie FITS, poniżej są jego wyjaśnienia dlaczego tak, a nie inaczej (wszystkie cytaty z forum i strony polter.pl):
 
 1) Dlaczego FUDGE? Uważam FUDGE za znakomitą mechanikę - wyjątkowo intuicyjną, uniwersalną i prostą. Steffan O’Sullivan, autor systemu, napisał kiedyś, że FUDGE jest jednym z nielicznych systemów, do którego usiąść może osoba go nie znająca (a nawet osoba nie znająca gier RPG w ogóle), i uczestniczyć w sesji nie musząc się go "uczyć". Równocześnie wymyślone przez O'Sullivana kości fudge (dF = dwie ścianki +1, dwie ścianki -1, dwie ścianki 0) mają stosunkowo spiczasty rozkład skoncentrowany wokół "zera". W rezultacie uzyskiwane wyniki są mocno zorientowane na umiejętności postaci, w mniejszym zaś stopniu na "ślepy los".
 

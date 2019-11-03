@@ -125,7 +125,7 @@ Bez zmian zostaje zasada o _Bonusowej Kości_.
 
 Przegrane starcie w Konflikcie nie zmniejsza automatycznie Kliszy. Zamiast tego występuje Drabinka zdrowia:
 
-  **Otarcie | Lekko ranny | Ranny | Ciężko ranny | Uziemiony | Agonia**
+**Otarcie - Lekko ranny - Ranny - Ciężko ranny - Uziemiony - Agonia**
   
 Na niej zaznaczamy kolejne obrażenia. 
 - _Otarcie_ nie ma ujemnego wpływu. 

@@ -16,10 +16,10 @@ Dla znających Fate mały słowniczek, w Risus_3xF występuje Opis, to odpowiedn
 
 Czym Risus_3xF różni się od bazowej wersji Risus:
 
-    - Risus_3xF używa kości Fudge
-    - Risus_3xF przy testach dodaje wartość Kliszy
-    - są dwie wersje mechaniki, przygodowa i realistyczna
-    - dodatkowe zasady dla pancerza i broni.
+- Risus_3xF używa kości Fudge
+- Risus_3xF przy testach dodaje wartość Kliszy
+- są dwie wersje mechaniki, przygodowa i realistyczna
+- dodatkowe zasady dla pancerza i broni.
 
 ## 1. Tworzenie postaci
 
@@ -56,18 +56,18 @@ Typowy jednostronny test, kiedy postać sprawdza sama siebie - czy wyważyła dr
 
 Drabinka testów wygląda następująco:
 
--3 Terrible     / Fatalny           / Dziecinne
--2 Poor         / Słaby             / Bardzo łatwe
--1 Medicore     / Przeciętny        / Łatwe
-0  Fair         / Przyzwoity        / Przeciętne
-+1 Good         / Dobry             / Trudne
-+2 Very Good    / Bardzo Dobry      / Bardzo Trudne
-+3 Great        / Wspaniały         / Ekstremalne
-+4 Superb       / Super             / Super skomplikowane
-+5 Fantastic    / Fantastyczny      / Fantastyczne, wręcz niemożliwe
-+6 Epic         / Legendarny        / Legendarne
-+7 Legendary    / Epicki            / Epickie
-+8 God-like     / Boski             / Boskie
+        -3 Terrible     / Fatalny           / Dziecinne
+        -2 Poor         / Słaby             / Bardzo łatwe
+        -1 Medicore     / Przeciętny        / Łatwe
+        0  Fair         / Przyzwoity        / Przeciętne
+        +1 Good         / Dobry             / Trudne
+        +2 Very Good    / Bardzo Dobry      / Bardzo Trudne
+        +3 Great        / Wspaniały         / Ekstremalne
+        +4 Superb       / Super             / Super ekstremalne
+        +5 Fantastic    / Fantastyczny      / Fantastyczne, wręcz niemożliwe
+        +6 Epic         / Legendarny        / Legendarne
+        +7 Legendary    / Epicki            / Epickie
+        +8 God-like     / Boski             / Boskie
 
 Jeśli chcemy przeskoczyć nad przepaścią, mamy Kliszę _Tarzan (4)_ , Mistrz Gry stwierdził, że trudność jest na poziomie +2 Very Good (Trudne). Rzucamy 4kF i jeśli wypadło lepiej niż -2 (bo domyślnie mamy +4 z Kliszy, jeśli rzucimy -2 będziemy mieli +2, czyli wymagane minimum), to przeskoczyliśmy. Ale dla kolegi naukowca, który ma jedynie Kliszę _Podróżnik (1)_, która tu pasuje, to już nie tak łatwo, musi wyrzucić co najmniej +1. Zazwyczaj klisze/testy mają wartość do +4. Postacie z wyższymi wartościami nie są często spotykane, a im wyżej niż ten przedział, tym bardziej jest to sytuacja nadzwyczajna.
 
